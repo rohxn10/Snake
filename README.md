@@ -1,4 +1,4 @@
-# Snake
+# Snake-Game
 
 Simple snake game made completely with java
 
